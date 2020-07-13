@@ -17,6 +17,9 @@ database ("city_temperature.db").  So that's how that happened, and it happened 
 @author: Charles (Chuck) Becker (c.l.becker@outlook.com)
 
 """
+
+# Here is an update
+
 # import matplotlib.pyplot as plt
 import pandas as pd
 import sqlite3 as s3
