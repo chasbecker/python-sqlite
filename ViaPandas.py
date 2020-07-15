@@ -4,6 +4,7 @@ Created on Sat Jul 11 11:49:45 2020
 
 @author: Charles
 """
+print("Welcome to GitHell")
 
 import pandas as pd
 import sqlite3 as s3
